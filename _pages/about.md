@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I am 20 years old student fome[Wuxi Taihu Lake University](http://www.wxu.edu.cn/).I like reading and playing sports.I major in computer science and technology at [Scotland Academy](http://www.wxu.edu.cn/2022zy/25290.htm)I have a comprehensive understanding of python,Web,and have the ability to write high-performance programs.
-You can find my CV here:[Zhu Chenyi's Curriculum Vitae](../assets/zhuchenyi_cv.pdf)
-[Email](mailto:70246206@qq.com)/[Wechat](../images/wechat.jpg)
+* You can find my CV here:[Zhu Chenyi's Curriculum Vitae](../assets/zhuchenyi_cv.pdf)
+* Contact Information:[Email](mailto:70246206@qq.com)/[Wechat](../images/wechat.jpg)
 
 Education Details
 =====
