@@ -28,17 +28,17 @@ iness, and there are many ways to feel happiness. In my life, I have been greatl
 
 
 The prospect of future study,work and life
-------
+======
 My ambition for academic work is to continue to pursue the exploration and discovery of knowledge, with a rigorous attitude and enthusiasm, and hope that research can bring more valuable insights and results to the society. My career ambition is to strive for excellence, to constantly learn and grow. Eager to work deeply in the professional field, bring value to the team and realize personal value. My personal ambition is to pursue balance and a sense of accomplishment. I hope to have stable career development and continuous personal growth. I look forward to sharing happy moments with like-minded friends and pursuing continuous learning and self-enrichment.
 
 
 Thinking of values
-------
+======
 The purpose of studying this course is not only to gain credits, but more importantly to improve self-awareness and explore knowledge and skills. When it comes to my personal values, the first is honesty and integrity. I believe that only by treating others sincerely can we win the respect and trust of others. In addition, I also attach great importance to responsibility and diligence. In my opinion, whether in work or in life, we all need to take our responsibilities and work hard to achieve our goals. I admire people who are tolerant of others and respect different views and differences. I also aspire to be a person who knows how to respect others, is not arrogant, and keeps learning and growing with humility. I think perseverance, optimism and good communication are the necessary conditions to express oneself successfully. These qualities enable me to remain resilient in the face of challenges and difficulties and actively seek solutions. At the same time, an optimistic attitude allows me to maintain a positive attitude and better cope with various situations in life.
 
 
 College experience and award certificates
-------
-Colege English Test Band Four
-coming soon
+=====
+* Colege English Test Band Four
+* coming soon
 
