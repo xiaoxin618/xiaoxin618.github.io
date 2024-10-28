@@ -13,8 +13,8 @@ You can find my CV here:[Zhu Chenyi's Curriculum Vitae](../assets/zhuchenyi_cv.p
 
 Education Details
 =====
-18th [Wuxi Taihu Lake University](http://www.wxu.edu.cn/)                         September/2023--June/2026
-15th Wuxi Yanqiao Senior middle school                                            September/2021--June/2023
+* 18th [Wuxi Taihu Lake University](http://www.wxu.edu.cn/)                         September/2023--June/2026
+* 15th Wuxi Yanqiao Senior middle school                                            September/2021--June/2023
 
 The reason for choosing this major
 ======
